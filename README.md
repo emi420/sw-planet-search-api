@@ -4,7 +4,7 @@ A very basic API for searching Star Wars Planets created with Ruby on Rails.
 
 ### 1. Installation
 
-`gem bundle install` 
+`bundle` 
 
 ### 2. Database migration
 
